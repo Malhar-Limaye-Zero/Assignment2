@@ -28,7 +28,7 @@ class Main
         const entitycontainer = document.querySelector("#en-bar");
         for(const ent of this.entitylist)
         {
-            const para = document.createElement("p");
+            const para = document.createElement("li");
             para.textContent = ent.name;
             para.addEventListener('click',ent.imagerender);
             entitycontainer.appendChild(para);

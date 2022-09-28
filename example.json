@@ -1,0 +1,17 @@
+[
+    {
+    "entity": "Countries",
+    "images": ["images/india.jpg","images/usa.jpg"],
+    "Desc" : ["Description of India", "Description of USA"]
+    },
+    {
+    "entity": "Scientists",
+    "images": ["images/turing.jpg","images/einstien.jpg","images/issac.jpg"],
+    "Desc" : ["Description of Alan Turing", "Description for Albert Einstien", "Description for Issac Newton"]
+    },
+    {
+    "entity": "Sportspersons",
+    "images": ["images/sachin.jpg"],
+    "Desc" : ["description for sachin"]
+    }
+]

@@ -20,3 +20,9 @@ img{
     width: 300px;
     height: 300px;
 }
+li:hover{
+    color: blue;
+}
+img:hover{
+    background-color: blue;
+}

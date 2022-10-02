@@ -69,7 +69,7 @@ class Main
         const elist = json;
         for(const item of elist)
         {
-            const ent = new Entity(item.entity,item.images,item.Desc,this._renderimages);
+            const ent = new Entity(item.entity,item.images,item.Desc);
             this.entitylist.push(ent);
         }
         this._rendernames();

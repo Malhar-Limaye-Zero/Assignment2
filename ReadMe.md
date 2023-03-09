@@ -1,6 +1,8 @@
 <h1 style="text-align:center">Introduction to Web Programming Assignment 2</h1>
 
 *Name-Malhar Limaye, Roll No.-BT20CSE075*
+
+*Goal of the assignment-create a website as per given structure and implement javascript functionalities such that clicking on each entity brings up more details of it in another area*
 ## File Structure of Submission
 ### 1. index.html
 > Contains the main html of the page
